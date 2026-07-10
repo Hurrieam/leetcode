@@ -289,6 +289,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1732", "1732\1732.vcxproj",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1189", "1189\1189.vcxproj", "{4F4B41D1-5D23-4A03-8D46-5C9398D6AF20}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1344", "1344\1344.vcxproj", "{87CA0517-A951-436C-81DC-16351E1B7D16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2015,6 +2017,18 @@ Global
 		{4F4B41D1-5D23-4A03-8D46-5C9398D6AF20}.Release|x64.Build.0 = Release|x64
 		{4F4B41D1-5D23-4A03-8D46-5C9398D6AF20}.Release|x86.ActiveCfg = Release|Win32
 		{4F4B41D1-5D23-4A03-8D46-5C9398D6AF20}.Release|x86.Build.0 = Release|Win32
+		{87CA0517-A951-436C-81DC-16351E1B7D16}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{87CA0517-A951-436C-81DC-16351E1B7D16}.Debug|Any CPU.Build.0 = Debug|x64
+		{87CA0517-A951-436C-81DC-16351E1B7D16}.Debug|x64.ActiveCfg = Debug|x64
+		{87CA0517-A951-436C-81DC-16351E1B7D16}.Debug|x64.Build.0 = Debug|x64
+		{87CA0517-A951-436C-81DC-16351E1B7D16}.Debug|x86.ActiveCfg = Debug|Win32
+		{87CA0517-A951-436C-81DC-16351E1B7D16}.Debug|x86.Build.0 = Debug|Win32
+		{87CA0517-A951-436C-81DC-16351E1B7D16}.Release|Any CPU.ActiveCfg = Release|x64
+		{87CA0517-A951-436C-81DC-16351E1B7D16}.Release|Any CPU.Build.0 = Release|x64
+		{87CA0517-A951-436C-81DC-16351E1B7D16}.Release|x64.ActiveCfg = Release|x64
+		{87CA0517-A951-436C-81DC-16351E1B7D16}.Release|x64.Build.0 = Release|x64
+		{87CA0517-A951-436C-81DC-16351E1B7D16}.Release|x86.ActiveCfg = Release|Win32
+		{87CA0517-A951-436C-81DC-16351E1B7D16}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
